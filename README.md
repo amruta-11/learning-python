@@ -1,2 +1,2 @@
 # learning-python
-My Python coding exercises
+Python coding exercises
